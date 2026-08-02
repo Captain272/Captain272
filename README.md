@@ -22,20 +22,14 @@
 
 ## Featured
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/Captain272/claw"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Captain272&repo=claw&theme=tokyonight" /></a></td>
-<td width="50%"><a href="https://github.com/Captain272/security-audits"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Captain272&repo=security-audits&theme=tokyonight" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/Captain272/Music-generator"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Captain272&repo=Music-generator&theme=tokyonight" /></a></td>
-<td width="50%"><a href="https://github.com/Captain272/trade-bot"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Captain272&repo=trade-bot&theme=tokyonight" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/Captain272/Cinesync"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Captain272&repo=Cinesync&theme=tokyonight" /></a></td>
-<td width="50%"><a href="https://github.com/Captain272/evm-storage-solver"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Captain272&repo=evm-storage-solver&theme=tokyonight" /></a></td>
-</tr>
-</table>
+| Project | What it does | |
+|---|---|---|
+| **[claw](https://github.com/Captain272/claw)** | Voice-first macOS agent — full memory + tool-use stack | ![Stars](https://img.shields.io/github/stars/Captain272/claw?style=flat&label=%E2%98%85) ![Lang](https://img.shields.io/github/languages/top/Captain272/claw?style=flat) |
+| **[security-audits](https://github.com/Captain272/security-audits)** | 6-layer AI audit harness + a critical Groth16 finding in Filecoin's `bellperson` | ![Stars](https://img.shields.io/github/stars/Captain272/security-audits?style=flat&label=%E2%98%85) ![Lang](https://img.shields.io/github/languages/top/Captain272/security-audits?style=flat) |
+| **[Music-generator](https://github.com/Captain272/Music-generator)** | LLM-driven AI music composition copilot | ![Stars](https://img.shields.io/github/stars/Captain272/Music-generator?style=flat&label=%E2%98%85) ![Lang](https://img.shields.io/github/languages/top/Captain272/Music-generator?style=flat) |
+| **[trade-bot](https://github.com/Captain272/trade-bot)** | Automated trading bot, built for the Ranger hackathon | ![Stars](https://img.shields.io/github/stars/Captain272/trade-bot?style=flat&label=%E2%98%85) ![Lang](https://img.shields.io/github/languages/top/Captain272/trade-bot?style=flat) |
+| **[Cinesync](https://github.com/Captain272/Cinesync)** | AI dubbing / voice-change tool | ![Stars](https://img.shields.io/github/stars/Captain272/Cinesync?style=flat&label=%E2%98%85) ![Lang](https://img.shields.io/github/languages/top/Captain272/Cinesync?style=flat) |
+| **[evm-storage-solver](https://github.com/Captain272/evm-storage-solver)** | Solves on-chain puzzles by reading raw storage slots, no source required | ![Stars](https://img.shields.io/github/stars/Captain272/evm-storage-solver?style=flat&label=%E2%98%85) ![Lang](https://img.shields.io/github/languages/top/Captain272/evm-storage-solver?style=flat) |
 
 ## The rest, by domain
 
@@ -80,6 +74,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Captain272&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Captain272&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Captain272&theme=tokyonight&hide_border=true" width="48%" />
+  <br />
+  <img src="https://img.shields.io/github/followers/Captain272?style=for-the-badge&label=followers&color=58A6FF" />
+  <img src="https://komarev.com/ghpvc/?username=Captain272&style=for-the-badge&color=58A6FF&label=profile+views" />
 </div>
